@@ -1,0 +1,1 @@
+Tohle je skript pro hru Pokémon.
